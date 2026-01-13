@@ -1,0 +1,15 @@
+# Lazy.nvim
+lazy-lock.json
+
+# Cache / runtime
+.plugin/
+.undo/
+.swap/
+.backup/
+.session/
+
+# Neovim state
+.shada
+
+LICENSE
+README.md
